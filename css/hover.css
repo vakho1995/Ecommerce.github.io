@@ -1,0 +1,12 @@
+.sec-3-img-div:hover .background-div{
+    opacity: 80%;
+}
+.sec-3-but:hover{
+    opacity: 80%;
+}
+.header-li:hover::after{
+    width: 100%;
+}
+.header-li:hover::before{
+    width: 100%;
+}
